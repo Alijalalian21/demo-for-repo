@@ -1,7 +1,10 @@
 # Something as Demo
 
 some description.
-## subheader
-
+## subheader 
 whatch the tutorial on youtube.
-cle
+another thing t be whoen
+## local developer
+
+1. Open index.html in your browser.
+salam aleykom
