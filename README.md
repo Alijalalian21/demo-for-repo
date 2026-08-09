@@ -7,3 +7,4 @@ another thing t be whoen
 ## local developer
 
 1. Open index.html in your browser.
+salam aleykom
